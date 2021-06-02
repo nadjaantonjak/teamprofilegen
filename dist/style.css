@@ -1,0 +1,28 @@
+
+
+.jumbotron {
+    background-color: #6d686c;
+    min-height: 100%;
+    text-align: center;
+} 
+
+.card {
+    margin: 1em;
+    max-width: 300px;
+    width: 100%;
+}
+
+.card-deck {
+    flex-wrap: wrap;
+    margin: 0.5em;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #d1c5f0;
+}
+
+
+  
